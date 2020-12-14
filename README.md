@@ -8,7 +8,8 @@ It is quite popular and I thought I'd just release it for [Synapse](https://gith
 ---
 ### Configs
 
-Use the RoleIDs of the SCPs which shall explode on death. Watch out: You can also enter non-scp id. Then, when the specified human dies, they explode.  
+Use the RoleIDs of the SCPs which shall explode on death.  
+Watch out: You can also enter non-scp ids. However, then, when the specified human dies, they explode.  
 It is not intended to block this behaviour, yet it is not the initial intend. It on you whether or not you'd want it.  
 
 Example config:
